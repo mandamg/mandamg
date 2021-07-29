@@ -1,7 +1,13 @@
 ### Hi, I'm Amanda 🌸 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-- 🌱 I’m currently learning Python
-- 😄 Pronouns: she/her
+⭐ she/her, INTP, buddhist ⭐</br>
+ 
+  📚 I’m currently learning
+  * Python
+  * MySQL
+  </br>
+  </br>
+  
 
 <div>
   <a href="https://github.com/mandamg">
