@@ -16,6 +16,6 @@ Full-Stack | AI Engineer 🤖. (In progress) </br>
 - 📺 I like to watch anime
 - 🧘🏻‍♀️ I'm Buddhist
 
-📚 I’m currently learning Python, MySQL, English and Japanese
+📚 I’m currently learning Python, MySQL
 
 ---
