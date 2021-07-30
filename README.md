@@ -1,17 +1,19 @@
-### Hi, I'm Amanda 🌸 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+---
+<img align="right" img height="170em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=mandamg&theme=dracula&show_icons=true"/>
 
-⭐ she/her, INTP, buddhist ⭐</br>
- 
-  📚 I’m currently learning
-  * Python
-  * MySQL
-  </br>
-  </br>
-  
+## Hi, I'm Amanda 🌸 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<div>
-  <a href="https://github.com/mandamg">
-  <img align="left" img height="170em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=mandamg&theme=dracula&show_icons=true"/>
-  <img align="rigth" img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandamg&layout=compact&theme=dracula"/>
- </div>
+Full-Stack | AI Engineer 🤖. (In progress) </br>
+✨she | her
 
+#### 🌈 About me 
+:heart: Anime  | :black_heart: Astronomy  | :blue_heart: Programming
+ <img align="right" img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandamg&layout=compact&theme=dracula"/>
+
+- :earth_americas: I'm from Paraíba - Brazil
+- 📺 I like to watch anime
+- 🧘🏻‍♀️ I'm Buddhist
+
+📚 I’m currently learning Python, MySQL, English and Japanese
+
+---
