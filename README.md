@@ -9,7 +9,7 @@ Full-Stack | AI Engineer 🤖. (In progress) </br>
 
 #### 🌈 About me 
 :heart: Anime  | :black_heart: Astronomy  | :blue_heart: Programming
-<href="github.com/mandamg>
+<a href="github.com/mandamg>
  <img align="right" img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandamg&layout=compact&theme=dracula"/>
 
 - :earth_americas: I'm from Paraíba - Brazil
