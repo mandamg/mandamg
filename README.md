@@ -5,7 +5,7 @@
 
 ## Hi, I'm Amanda 🌸 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-Full-Stack | AI Engineer 🤖. (In progress) </br>
+Web Developer 🤖. (In progress) </br>
 ✨she | her
 
 #### 🌈 About me 
